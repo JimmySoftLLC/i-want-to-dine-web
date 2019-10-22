@@ -1,2 +1,2 @@
-# i-want-to-dine-web
-Fine dining app
+# iWantToDine-WebSite
+ The landing page for iWantToDine
